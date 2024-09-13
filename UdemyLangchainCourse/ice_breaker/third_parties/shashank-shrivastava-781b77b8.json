@@ -1,0 +1,208 @@
+{
+    "public_identifier": "shashank-shrivastava-781b77b8",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/shashank-shrivastava-781b77b8/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230809%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230809T094636Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=76646d2363deb9f1d100829aea3c008d432732f44934f5e8677a60d910becefe",
+    "background_cover_image_url": null,
+    "first_name": "Shashank",
+    "last_name": "Shrivastava",
+    "full_name": "Shashank Shrivastava",
+    "follower_count": 497,
+    "occupation": "AI Software Solutions Engineer at Intel Corporation",
+    "headline": "AI Software Solutions Engineer @ Intel",
+    "summary": "As a data science and NLP practitioner, I am passionate about using data-driven insights and natural language processing techniques to solve complex problems. I've worked on a variety of projects, from building a search engine to developing information extraction systems. My expertise includes data preprocessing, feature engineering, and applying machine learning techniques such as regression, classification, and clustering to build predictive models. I'm proficient in programming languages such as Python and well-versed in advanced NLP algorithms like GANs, Transformers and GPT",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "ends_at": null,
+            "company": "Intel Corporation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/intel-corporation/",
+            "title": "AI Software Solutions Engineer",
+            "description": "Worked on NLP/ML based projects focused on catering for a wide range of problems relevant to defect management cycles such as intelligent test validation, duplicate bug detection, bug triaging, root cause analysis, and solution recommendation. Work has brought about more than 25% optimization and saved more than $1m.",
+            "location": "India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/intel-corporation/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230809%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230809T094636Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=efd29c327acb62341f0aeb4fd493a4647e05733b9a4d0a0d03f7dc3f745c2c2d"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Intel Corporation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/intel-corporation/",
+            "title": "Software Development Engineer",
+            "description": null,
+            "location": "Bangalore Urban, Karnataka, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/intel-corporation/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230809%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230809T094636Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=efd29c327acb62341f0aeb4fd493a4647e05733b9a4d0a0d03f7dc3f745c2c2d"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2017
+            },
+            "company": "Indian Institute of Technology, Madras",
+            "company_linkedin_profile_url": null,
+            "title": "Teaching Assistant",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_400_400/0/1659504005981?e=1699488000&v=beta&t=25cMh-AOucAz0sACYcC0aRIE9Y9Gn1oX2QBHwBoqjU0"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Master of Science (MS)",
+            "school": "Indian Institute of Technology, Madras",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_400_400/0/1659504005981?e=1699488000&v=beta&t=25cMh-AOucAz0sACYcC0aRIE9Y9Gn1oX2QBHwBoqjU0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/gargritu-ai",
+            "name": "Ritu Garg",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aditya-sirvaiya-3390136a",
+            "name": "Aditya Sirvaiya",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lokeswara-rao-bonta",
+            "name": "Lokeswara Rao Bonta",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/v-srinivasa-somayazulu-9193382",
+            "name": "V. Srinivasa Somayazulu",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/niyas-k-30052519b",
+            "name": "Niyas K",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ducklee",
+            "name": "Duke L.",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/deeksha-goplani-21744564",
+            "name": "Deeksha Goplani",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ruthvik-m-s-0033a2169",
+            "name": "Ruthvik M S",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/akshata-kanungo-476b95243",
+            "name": "Akshata Kanungo",
+            "summary": null,
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sanjana-prakash-68a088222",
+            "name": "Sanjana Prakash",
+            "summary": null,
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Shashank Shrivastava",
+            "link": "https://in.linkedin.com/in/shashank-shrivastava-1a18112b",
+            "summary": "Principal Engineer II at Tokopedia (Engineering Productivity- Payments & Fintech )",
+            "location": "India"
+        },
+        {
+            "name": "Shashank Shrivastava",
+            "link": "https://in.linkedin.com/in/shashank-shrivastava-4b02632a",
+            "summary": "Manager - Credit at Radisson Gwalior",
+            "location": "Gwalior"
+        },
+        {
+            "name": "Shashank Shrivastava",
+            "link": "https://www.linkedin.com/in/shashank-shrivastava-85788b38",
+            "summary": "Cloud Application Architect at Amazon Web Services (AWS)",
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "name": "Shashank Shrivastava",
+            "link": "https://in.linkedin.com/in/shashank-shrivastava-06621744",
+            "summary": "Information Security Principal | Threat Automation Lead",
+            "location": "Noida"
+        },
+        {
+            "name": "SHASHANK SHRIVASTAVA",
+            "link": "https://in.linkedin.com/in/shashank-shrivastava-a0236188",
+            "summary": "Deputy Manager at Bajaj Finserv Direct Limited",
+            "location": "Pune"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
